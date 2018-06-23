@@ -1,0 +1,9 @@
+INSERT INTO `users` VALUES (1, 'forever', '176540831.@qq.com', '123', 'hehe', 'uploads/avatar.jpg', NULL, 'unactivated');
+INSERT INTO `users` VALUES (2, 'zce', 'w@zce.me', 'wanglei', '飞飞', 'uploads/avatar.jpg', NULL, 'activated');
+INSERT INTO `users` VALUES (3, 'ice', 'ice@wedn.net', 'wanglei', '亮亮', 'uploads/avatar.jpg', NULL, 'forbidden');
+INSERT INTO `users` VALUES (5, 'cg', 'itcast@itcast.cn', '123', '大春哥', 'uploads/dog.jpg', NULL, 'activated');
+INSERT INTO `users` VALUES (6, 'simayi', 'wqeqwe@weq', '123', '子贱', './uploads/1527849693798.jpg', NULL, 'activated');
+INSERT INTO `users` VALUES (7, 'three', '1231231.@qq.com', '123', '笑嘻嘻', './uploads/1527849745236.jpg', NULL, 'activated');
+INSERT INTO `users` VALUES (9, 'three1', 'wqeqwe@weq.com', '123', '123', './uploads/1527856284986.gif', NULL, 'activated');
+INSERT INTO `users` VALUES (10, '啊师傅打', 'ice@wedn.com', '1231', '123', './uploads/1527856571671.gif', NULL, 'activated');
+INSERT INTO `users` VALUES (11, 'simayia', 'fffice@wedn.ncom', 'asdf', 'asdf', './uploads/1527856218552.gif', NULL, 'activated');

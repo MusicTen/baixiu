@@ -1,0 +1,10 @@
+INSERT INTO `options` VALUES (1, 'site_url', 'http://localhost');
+INSERT INTO `options` VALUES (2, 'site_logo', '/static/assets/img/logo.png');
+INSERT INTO `options` VALUES (3, 'site_name', '我的博客');
+INSERT INTO `options` VALUES (4, 'site_description', '城里人是不让人活了！');
+INSERT INTO `options` VALUES (5, 'site_keywords', 'aa, bb, cc, dd, ff');
+INSERT INTO `options` VALUES (6, 'site_footer', '<p> 2016 itcast@ themebetter </p>');
+INSERT INTO `options` VALUES (7, 'comment_status', '1');
+INSERT INTO `options` VALUES (8, 'comment_reviewed', '1');
+INSERT INTO `options` VALUES (9, 'nav_menus', '[{\"text\":\"奇趣事\",\"title\":\"奇趣事\",\"href\":\"#\",\"icon\":\"fa fa-gift\"},{\"text\":\"潮科技\",\"title\":\"潮科技\",\"href\":\"#\",\"icon\":\"fa fa-phone\"},{\"text\":\"会生活\",\"title\":\"会生活\",\"href\":\"#\",\"icon\":\"fa fa-fire\"},{\"text\":\"美奇迹\",\"title\":\"美奇迹\",\"href\":\"#\",\"icon\":\"fa fa-glass\"},{\"text\":\"下西洋\",\"title\":\"下西洋\",\"href\":\"#\",\"icon\":\"fa fa-glass\"},{\"text\":\"翻雪山\",\"title\":\"翻雪山\",\"href\":\"#\",\"icon\":\"fa fa-fire\"}]');
+INSERT INTO `options` VALUES (10, 'home_slides', '[{\"text\":\"王者荣耀\",\"link\":\"#\",\"image\":\"./uploads/1527944071452.jpg\"},{\"text\":\"王者荣耀\",\"link\":\"#\",\"image\":\"./uploads/1527944095225.jpg\"},{\"text\":\"王者荣耀\",\"link\":\"#\",\"image\":\"./uploads/1527944103714.jpg\"},{\"text\":\"王者荣耀\",\"link\":\"#\",\"image\":\"./uploads/1527944129848.jpg\"},{\"text\":\"王者荣耀\",\"link\":\"#\",\"image\":\"./uploads/1527945683201.jpg\"}]');
